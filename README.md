@@ -18,4 +18,4 @@ This is a React application that simulates a drum pad. Users can interact with t
 
 ## Live Demo
 
-You can view the live demo of the application [here](https://your-drum-pad-simulator.netlify.app/).
+You can view the live demo of the application [here](https://react-drum-simulator.netlify.app/).
