@@ -67,12 +67,12 @@ function App() {
       <div className="container" id="drum-machine" onKeyDown={playSound}>
         <h1>Drum Simulator</h1>
         <div className="pad">
+          <div id="display"></div>
           <div className="drum-pads">
             {audioClips.map((clip) => (
               <Drum audioClip={clip} />
             ))}
           </div>
-          <div id="display"></div>
         </div>
       </div>
     </>
